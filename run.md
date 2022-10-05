@@ -1,0 +1,4 @@
+Run Equipment:
+
+* Shoes
+* Water
