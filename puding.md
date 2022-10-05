@@ -5,3 +5,5 @@ Keterangan menu puding
 * Ceh Data
 * Kalibrasi
 * Dimensi
+* Kerangka
+* Penggaris
