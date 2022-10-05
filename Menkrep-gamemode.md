@@ -1,6 +1,6 @@
 Beberapa Gamemode baut menkrep
 
-  #1 Menkrep Randomize Item Drop
-  #2 Menkrep Modpack Ringan
-  #3 Menkrep Vanilla 
-  #4 Menkrep Mod Ringan
+  * Menkrep Randomize Item Drop
+  * Menkrep Modpack Ringan
+  * Menkrep Vanilla 
+  * Menkrep Mod Ringan
