@@ -7,3 +7,5 @@ Keterangan menu puding
 * Dimensi
 * Kerangka
 * Penggaris
+* Tepung
+* Air panas
