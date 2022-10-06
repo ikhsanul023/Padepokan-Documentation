@@ -4,3 +4,4 @@ Beberapa Gamemode baut menkrep
   * Menkrep Modpack Ringan
   * Menkrep Vanilla 
   * Menkrep Mod Ringan
+  * Menkrep B aja
