@@ -4,3 +4,4 @@ Jangkar dokumentasi
 * Atur radius
 * Berikan judul
 * Kasih keterangan
+* Tarik Garis Lurus
