@@ -6,3 +6,4 @@ Jangkar dokumentasi
 * Kasih keterangan
 * Tarik Garis Lurus
 * Teliti
+* Syulit
