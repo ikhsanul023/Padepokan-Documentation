@@ -5,3 +5,4 @@ Jangkar dokumentasi
 * Berikan judul
 * Kasih keterangan
 * Tarik Garis Lurus
+* Teliti
