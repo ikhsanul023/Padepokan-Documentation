@@ -4,3 +4,4 @@ Indra kerja :
   * indrakerjaot
   * indrakerjabantingtulang
   * indrarakitpc
+  * indrasuka
