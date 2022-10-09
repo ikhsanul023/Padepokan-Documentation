@@ -4,3 +4,4 @@ Make sandwich
   * Condensed Milk
   * Bread
   * Butter
+  * MSG
