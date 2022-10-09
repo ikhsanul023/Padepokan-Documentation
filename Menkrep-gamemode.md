@@ -6,3 +6,4 @@ Beberapa Gamemode baut menkrep
   * Menkrep Mod Ringan
   * Menkrep B aja
   * Menkrepbay
+  * Menkrep rb18
