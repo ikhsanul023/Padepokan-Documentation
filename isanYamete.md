@@ -4,3 +4,5 @@ Isan Yamete
   * UHHHHH
   * MMMPSHHHH
   * MMMMM
+  * UWU
+  * YEA
