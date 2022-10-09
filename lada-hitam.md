@@ -4,4 +4,5 @@ Ini lada hitam
 * Pahit
 * Keras
 * Bulat
+* Kerja
 * Indra
