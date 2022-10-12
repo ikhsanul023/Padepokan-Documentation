@@ -1,0 +1,3 @@
+Fuzzy Logic Controller adalah sebuah metode sistem kendali yang dapat mengontrol sebuah perangkat yang terdapat sistem kontrol didalam nya.
+Sebagai contoh nya yaitu pada sistem fuzzy yang terdapat pada robot manipulator 6DOF milik Teniro (agris ayong gak diajak) menggunakan metode fuzzy seba dari pergerakan
+motor stepper yaitu dengan tujuan agar PID kotrol pada stepper dapat autotuning nilai secara otomatis sesuai dengan error yang diperoleh dari pembacaan sensor dan kemudian diolah oleh PID.
