@@ -8,3 +8,4 @@ Jangkar dokumentasi
 * Teliti
 * Syulit
 * Pengukuran 
+lol
