@@ -7,3 +7,4 @@ Jangkar dokumentasi
 * Tarik Garis Lurus
 * Teliti
 * Syulit
+* Pengukuran 
