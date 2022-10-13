@@ -6,3 +6,4 @@ Ini lada hitam
 * Bulat
 * Kerja
 * Indra
+* Bayu
