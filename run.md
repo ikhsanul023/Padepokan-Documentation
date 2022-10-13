@@ -1,4 +1,5 @@
-Run Equipment:
+IaRun Equipment:
 
 * Shoes
 * Water
+* Three
