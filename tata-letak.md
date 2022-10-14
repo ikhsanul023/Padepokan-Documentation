@@ -4,3 +4,4 @@ Ini contoh tata letak untuk padepokan
 * Berikan dimensi
 * Berikan saran
 exio
+* Berikan kesimpulan 
