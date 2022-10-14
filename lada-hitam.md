@@ -8,3 +8,4 @@ Ini lada hitam
 * Indra
 * Bayu
 * Agris ganteng 
+* Bayu marah
