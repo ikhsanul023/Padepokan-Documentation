@@ -7,10 +7,9 @@ Indra kerja :
   * indrasuka
   * indrasayangsiapa
   * indraanj
-
-* indra anji
-
+  * indra anji
   * indraganteng
-
-* indrag
+  * indrag  
   * indraler
+  * Indra dapat ceue
+  * Indra ngedate ea
