@@ -13,3 +13,5 @@ Indra kerja :
   * indraler
   * Indra dapat ceue
   * Indra ngedate ea
+  * Indra pacar adel
+  * Indra makan perkedel
